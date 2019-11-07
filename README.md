@@ -33,6 +33,15 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - Big Datasets (TalkingData provides training data for **185 million samples**.)
 - Imbalanced Data
 
-**Solution References**
+**Solution References:**
 - [Big Datasets](https://www.kaggle.com/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
-
+- Fixing imbalanced data with LightGBM
+  [link1:](https://www.kaggle.com/pranav84/lightgbm-fixing-unbalanced-data-lb-0-9680)
+  [link2:](https://www.kaggle.com/alexanderkireev/experiments-with-imbalance-nn-arch-9728)
+- Feature Engineering
+  [link1:](https://www.kaggle.com/nanomathias/feature-engineering-importance-testing)
+  [link2:](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/53634#latest-578234)
+- LightGBM
+  [link1:](https://www.kaggle.com/aharless/kaggle-runnable-version-of-baris-kanber-s-lightgbm)
+  [link2:](https://www.kaggle.com/asraful70/talkingdata-added-new-features-in-lightgbm)
+-[XGBoost](https://www.kaggle.com/joaopmpeinado/talkingdata-xgboost-lb-0-966)
