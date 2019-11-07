@@ -15,3 +15,12 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 |---|---|---|---|
 | LGBM |0.98122|0.98206| 223th ([Top 6%](https://www.kaggle.com/shielaj/competitions))|
 
+**The libraries used are**:  
+- numpy
+- pandas
+- matplotlib, 
+- seaborn
+- sklearn
+- lightgbm
+- xgboost
+
