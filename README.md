@@ -15,5 +15,5 @@ Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competition
 
 |Model|Public score|Private score|Final rank| 
 |---|---|---|---|
-| LGBM |0.98122|0.98206| 223th (*top6%*)|
+| LGBM |0.98122|0.98206| 223th (Top 6%](https://www.kaggle.com/shielaj/competitions))|
 
