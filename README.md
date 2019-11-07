@@ -28,5 +28,9 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - xgboost
 
 **Challenges**:
-- Big Datasets 
+- Big Datasets (TalkingData provides training data for **185 million samples**, including data between 2017.11.06 and 2017.11.09.)
 - Imbalanced Data
+
+**Evaluation Metric**
+- area under the ROC curve (ROC-AUC)
+
