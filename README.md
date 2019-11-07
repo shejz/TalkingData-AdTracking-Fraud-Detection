@@ -8,8 +8,6 @@ Fraud risk is everywhere, but for companies that advertise online, click fraud c
 
 Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
-Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competitions)
-
 ## Model and LB score (AUC-ROC)
 **Model**: xgboost and lightgbm
 
