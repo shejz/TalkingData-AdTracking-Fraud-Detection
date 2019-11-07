@@ -33,5 +33,6 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - Big Datasets (TalkingData provides training data for **185 million samples**.)
 - Imbalanced Data
 
-
+** Solution References**
+[Big Datasets](https://www.kaggle.com/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
 
