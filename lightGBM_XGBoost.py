@@ -7,7 +7,6 @@ import xgboost as xgb
 import numpy as np
 import pandas as pd
 
-
 def group_label(df, group_cols):
     for i, cols in enumerate(group_cols):
         col_name = "_".join(group_cols)
@@ -19,7 +18,6 @@ def group_label(df, group_cols):
         gc.collect()
     return df
 
-
 def count_agg(df, group_cols):
     for i, cols in enumerate(group_cols):
         col_name = "_".join(cols) + '_count'
@@ -30,7 +28,6 @@ def count_agg(df, group_cols):
         gc.collect()
     return df
 
-
 def count_cum(df, group_cols):
     for i, cols in enumerate(group_cols):
         col_name = "_".join(cols) + '_countAccum'
@@ -38,7 +35,6 @@ def count_cum(df, group_cols):
         df[col_name] = df.groupby(cols).cumcount()
         gc.collect()
     return df
-
 
 def count_uniq(df, group_uniq_cols):
     for i, cols in enumerate(group_uniq_cols):
@@ -60,7 +56,6 @@ def next_click(df, group_cols):
         gc.collect()
     return df
 
-
 def frequence(df, group_cols):
     for i, cols in enumerate(group_cols):
         col_name = "_".join(cols) + '_nextClick'
@@ -70,7 +65,6 @@ def frequence(df, group_cols):
         del clickFreq
         gc.collect()
     return df
-
 
 def generate_features(df):
     print('generating time features...')
@@ -174,7 +168,7 @@ test_features = all_df.iloc[train_df.shape[0]:]
 gc.collect()
 
 
-########################### train LGB ###########################
+########################### Train LightGBM ###########################
 lgb_params = {
     'boosting_type': 'gbdt',
     'objective': 'binary',
@@ -266,7 +260,7 @@ print("All done...")
 del test
 gc.collect()
 
-########################### train XGB ###########################
+########################### Train XGBoost ###########################
 xgb_params = {'eta': 0.08,
               'tree_method': "hist",
               'grow_policy': "lossguide",
