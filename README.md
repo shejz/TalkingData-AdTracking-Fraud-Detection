@@ -44,4 +44,4 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - LightGBM
   [link1](https://www.kaggle.com/aharless/kaggle-runnable-version-of-baris-kanber-s-lightgbm)
   [link2](https://www.kaggle.com/asraful70/talkingdata-added-new-features-in-lightgbm)
--[XGBoost](https://www.kaggle.com/joaopmpeinado/talkingdata-xgboost-lb-0-966)
+- [XGBoost](https://www.kaggle.com/joaopmpeinado/talkingdata-xgboost-lb-0-966)
