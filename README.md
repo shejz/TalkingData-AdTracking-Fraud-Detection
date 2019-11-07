@@ -32,5 +32,5 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - Imbalanced Data
 
 **Evaluation Metric**
-- area under the ROC curve (ROC-AUC)
+- area under the ROC curve (AUC-ROC)
 
