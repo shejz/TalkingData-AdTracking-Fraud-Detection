@@ -12,8 +12,7 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 ## Model and LB score (AUC-ROC)
 **Model**: xgboost and lightgbm
 
-**Evaluation Metric**
-- area under the ROC curve (AUC-ROC)
+**Evaluation Metric**: area under the ROC curve (AUC-ROC)
 
 **Training and verification**: Some models use the data of 11.07-11.09, and some models use the data of 11.07-11.08. Randomly select **50 million** rows of data for verification.
 
