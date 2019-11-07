@@ -30,7 +30,7 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - xgboost
 
 **Challenges**:
-- Big Datasets (TalkingData provides training data for **185 million samples**.)
+- Large Datasets (TalkingData provides training data for **185 million samples** 7GB size.)
 - Imbalanced Data
 
 **Solution References:**
