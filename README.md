@@ -6,11 +6,12 @@ Fraud risk is everywhere, but for companies that advertise online, click fraud c
 - Build a machine learning model to determine whether a click is fraud or not.
 
 
-Competition website: [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
+Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
 Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competitions)
 
 ## Models and scores
+Model: xgboost and lightgbm
 
 |Model|Private score|Public score|
 |---|---|---|
