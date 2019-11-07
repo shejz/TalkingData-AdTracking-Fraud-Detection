@@ -6,5 +6,5 @@ This repository is about my learning experience in Kaggle Competition. It consis
 Competition website: [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
 Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competitions)
-![bronze medal](https://www.kaggle.com/static/images/medals/competitions/bronzel@2x.png)
+
 
