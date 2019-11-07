@@ -11,6 +11,8 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 ## Model and LB score (AUC-ROC)
 **Model**: xgboost and lightgbm
 
+**Training and verification**: Some models use the data of 11.07-11.09, and some models use the data of 11.07-11.08. Randomly select **10 million** rows of data for verification.
+
 |Model|Public score|Private score|Final rank| 
 |---|---|---|---|
 | LGBM |0.98122|0.98206| 223th ([Top 6%](https://www.kaggle.com/shielaj/competitions))|
