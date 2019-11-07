@@ -10,11 +10,10 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 
 Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competitions)
 
-## Models and scores
+## Model and LB score (AUC-ROC)
 **Model**: xgboost and lightgbm
 
-|Model|Private score|Public score|
-|---|---|---|
-|LGBM  |0.98206|0.98122|
-
+|model|public score|private score|final rank| 
+|---|---|---|---|
+| LGBM |0.98122|0.98206| 223th (*top6%*)|
 
