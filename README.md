@@ -7,9 +7,9 @@ Competition website: [TalkingData AdTracking Fraud Detection Challenge](https://
 
 Final ranking: [223th place (Top 6%)](https://www.kaggle.com/shielaj/competitions)
 
-## Models and Scores
+## Models and scores
 
-|model|private score|public score|
+|Model|Private score|Public score|
 |---|---|---|
 |LGBM  |0.98206|0.98122|
 
