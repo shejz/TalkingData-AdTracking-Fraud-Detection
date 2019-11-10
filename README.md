@@ -18,7 +18,7 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 
 |Model|Public score|Private score|Final rank| 
 |---|---|---|---|
-| LGBM |0.98122|0.98206| 223th ([Top 6%](https://www.kaggle.com/shielaj/competitions))|
+| LGBM |0.98122|0.98206| 223th ([Top 6%](https://www.kaggle.com/shielaj/competitions)) bronze medal|
 
 **The libraries used are**:  
 - numpy
