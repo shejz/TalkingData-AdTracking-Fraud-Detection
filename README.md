@@ -33,7 +33,7 @@ Competition link: [TalkingData AdTracking Fraud Detection Challenge](https://www
 - Large Datasets (TalkingData provides training data for **185 million samples** 7GB size.)
 - Imbalanced Data
 
-**Exploratory Data Analysis(EDA)**: [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/TalkingData-AdTracking-Fraud-Detection/blob/master/TalkingData_AdTracking_Fraud_Detection.ipynb)
+**Exploratory Data Analysis(EDA)**: [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/TalkingData-AdTracking-Fraud-Detection/blob/master/TalkingData_AdTracking_Fraud_Detection.ipynb)
 
 **Solution References:**
 - [Big Datasets](https://www.kaggle.com/yuliagm/how-to-work-with-big-datasets-on-16g-ram-dask)
